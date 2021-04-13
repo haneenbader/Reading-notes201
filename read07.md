@@ -1,6 +1,6 @@
- # Read: 07 - HTML Tables; JS Constructor Functions 
+# Read: 07 - HTML Tables; JS Constructor Functions 
 
- _**Chapter 6: “Tables”**_
+_**Chapter 6: “Tables”**_
 
 _why we using The _table_ element ?_
 
